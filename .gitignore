@@ -1,0 +1,9 @@
+
+# Local credentials and machine-specific agent state
+.env
+.env.*
+!.env.example
+key.txt
+*.pem
+*.key
+.codex/
